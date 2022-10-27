@@ -2,7 +2,9 @@
 /dist
 /node_modules
 /mongo
-/yarn.lock
+
+package-lock.json
+yarn.lock
 
 .env
 
